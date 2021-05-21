@@ -1,0 +1,84 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vold-studio.pp.ua" resolutions="1x" timestamp="1466025357672">
+  <folder name="css">
+    <file name="site_global.css" crc="137483707"/>
+    <file name="master_______-a.css" crc="83037613" ref="portfolio:contact:index:banner:service"/>
+    <file name="portfolio.css" crc="406536955" ref="portfolio"/>
+    <file name="iefonts_portfolio.css" crc="4021850347" ref="portfolio"/>
+    <file name="contact.css" crc="4328820" ref="contact"/>
+    <file name="iefonts_contact.css" crc="522566789" ref="contact"/>
+    <file name="index.css" crc="3989654937" ref="index"/>
+    <file name="iefonts_index.css" crc="502328455" ref="index"/>
+    <file name="banner.css" crc="4293420025" ref="banner"/>
+    <file name="service.css" crc="4121224985" ref="service"/>
+    <file name="iefonts_service.css" crc="29650797" ref="service"/>
+  </folder>
+  <folder name="assets">
+    <folder name="banner">
+      <folder name="images">
+        <file name="4168.png" crc="139385930" mt="1461616713000"/>
+        <file name="41682.png" crc="139385930" mt="1461616713000"/>
+        <file name="74.jpg" crc="155493031" mt="1461616713000"/>
+        <file name="Cursor-512.png" crc="303027575" mt="1461616713000"/>
+        <file name="Cursor-5122.png" crc="4243043446" mt="1461616713000"/>
+        <file name="flower_pattern.jpg" crc="4160648089" mt="1461616713000"/>
+        <file name="freet.png" crc="312418032" mt="1461616713000"/>
+        <file name="k.png" crc="3966217116" mt="1461616713000"/>
+        <file name="logo.jpg" crc="277591328" mt="1461616713000"/>
+        <file name="pc.png" crc="297668775" mt="1461616713000"/>
+        <file name="Poster.png" crc="37439262" mt="1461616713000"/>
+        <file name="usb.png" crc="193040665" mt="1461616713000"/>
+        <file name="usb2.png" crc="374597688" mt="1461616713000"/>
+        <file name="Vhs-icon.png" crc="456819332" mt="1461616713000"/>
+        <file name="vhs_vector_clipart.png" crc="3901551731" mt="1461616713000"/>
+        <file name="video.png" crc="153522528" mt="1461616713000"/>
+        <file name="vodafoned.png" crc="283782634" mt="1461616713000"/>
+        <file name="Wide-Screen-TV-PNG-Graphic-Cave.png" crc="307970372" mt="1461616713000"/>
+        <file name="30895.svg" crc="317662019" mt="1461616713000"/>
+        <file name="preloader5.gif" crc="4020311544" mt="1461616713000"/>
+      </folder>
+      <file name="transparent.png" crc="210195762" mt="1461616713000"/>
+      <file name="banner_edge.js" crc="33978472" mt="1461616713000"/>
+      <file name="banner.html" crc="60677621" mt="1461616713000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="phone>index:phone>works:phone>contacts:phone>service:index:service:portfolio:contact:banner"/>
+    <file name="museutils.js" crc="3790713428" ref="phone>index:phone>works:phone>contacts:phone>service:index:service:portfolio:contact:banner"/>
+    <file name="whatinput.js" crc="84559013" ref="phone>index:phone>works:phone>contacts:phone>service:index:service:portfolio:contact:banner"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="phone>index:phone>works:phone>contacts:phone>service:index:service:portfolio:contact:banner"/>
+    <file name="museredirect.js" crc="71780213" ref="index:service"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="portfolio"/>
+    <file name="pie.js" crc="3827607177" ref="portfolio"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="73584921" ref="phone>index:banner"/>
+    <file name="k.png" crc="3931323886" seo="true" ref="phone>contacts:contact"/>
+    <file name="vodafoned-crop-u357.png" crc="359747906" ref="phone>contacts"/>
+    <file name="dd.png" crc="3971990690" seo="true" ref="phone>contacts:contact"/>
+    <file name="mail_vector_icon_light_blue.png" crc="477084161" seo="true" ref="phone>contacts:contact"/>
+    <file name="vold a-crop-u606.png" crc="34081445" ref="index"/>
+    <file name="9.jpg" crc="3900012189" ref="index:service:portfolio:contact"/>
+    <file name="vold3-crop-u657.png" crc="336337237" ref="service"/>
+    <file name="9.png" crc="4141424285" ref="portfolio"/>
+    <file name="vold3-crop-u749.png" crc="336337237" ref="contact"/>
+    <file name="vodafoned-crop-u790.png" crc="485459585" ref="contact"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_______-a.css" crc="168509319" ref="phone>service:phone>index:phone>contacts:phone>works"/>
+      <file name="service.css" crc="3826788104" ref="phone>service"/>
+      <file name="index.css" crc="103580317" ref="phone>index"/>
+      <file name="contacts.css" crc="4149895683" ref="phone>contacts"/>
+      <file name="works.css" crc="4009221515" ref="phone>works"/>
+    </folder>
+    <file name="index.html" crc="258762781" seo="true" mt="1457210711145" redirect="true"/>
+    <file name="works.html" crc="4081391716" seo="true" mt="1451131828415" redirect="true"/>
+    <file name="contacts.html" crc="103328069" seo="true" mt="1457210868814" redirect="true"/>
+    <file name="service.html" crc="3841345115" seo="true" mt="1451131003473" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="311883103" seo="true" mt="1460725850895" redirect="true"/>
+  <file name="service.html" crc="4110411523" seo="true" mt="1460725850895" redirect="true"/>
+  <file name="portfolio.html" crc="4107921945" seo="true" mt="1460725850895" redirect="true"/>
+  <file name="contact.html" crc="37053648" seo="true" mt="1460725850895" redirect="true"/>
+  <file name="banner.html" crc="171854279" seo="true" mt="1466025331346" redirect="true"/>
+</manifest>

@@ -1,0 +1,281 @@
+.version.service /* version checker */
+{
+	color: #0000F5;
+	background-color: #A4E719;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 738px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-bottom: -50px;
+	padding-top: 4px;
+	width: 0.01px;/* should not cover content below */
+}
+
+#pu948-7
+{
+	width: 0.01px;
+	margin-left: 20px;
+}
+
+#u948-7
+{
+	z-index: 74;
+	width: 299px;
+	min-height: 80px;
+	background-color: transparent;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u948-3
+{
+	font-size: 40px;
+	line-height: 48px;
+}
+
+#u948
+{
+	color: #54B11C;
+}
+
+#u948-2
+{
+	color: #FFFFFF;
+}
+
+#u948-5
+{
+	font-size: 10px;
+	line-height: 12px;
+	color: #CDCDCD;
+}
+
+#u1007-4
+{
+	z-index: 94;
+	width: 78px;
+	min-height: 42px;
+	background-color: transparent;
+	color: #CDCDCD;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 591px;
+}
+
+#u1007-4:hover p
+{
+	color: #68DA23;
+	visibility: inherit;
+}
+
+#u1008-4
+{
+	z-index: 98;
+	width: 78px;
+	min-height: 42px;
+	background-color: transparent;
+	color: #CDCDCD;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 669px;
+}
+
+#u1009-4
+{
+	z-index: 102;
+	width: 95px;
+	min-height: 42px;
+	background-color: transparent;
+	color: #CDCDCD;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 747px;
+}
+
+#u1009-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 42px;
+	width: 95px;
+	margin: 16px -10000px 0px 0px;
+}
+
+#u1010-4
+{
+	z-index: 106;
+	width: 78px;
+	min-height: 42px;
+	background-color: transparent;
+	color: #CDCDCD;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 842px;
+}
+
+#u1007-4:hover,#u1010-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 42px;
+	width: 78px;
+	margin: 16px -10000px 0px 0px;
+}
+
+#u1009-4:hover p,#u1010-4:hover p
+{
+	color: #68DA2D;
+	visibility: inherit;
+}
+
+#pu958
+{
+	width: 0.01px;
+	margin-left: 163px;
+	margin-top: 26px;
+}
+
+#u958
+{
+	z-index: 2;
+	width: 200px;
+	min-height: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 186px;
+	left: 697px;
+}
+
+#u657
+{
+	z-index: 3;
+	width: 633px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u663-69
+{
+	z-index: 5;
+	width: 550px;
+	min-height: 524px;
+	background-color: transparent;
+	color: #191919;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 40px;
+	left: 39px;
+}
+
+#u663
+{
+	text-align: center;
+}
+
+#u663-4,#u663-49,#u663-50,#u663-57,#u663-58
+{
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
+}
+
+#u663-5,#u663-45,#u663-46,#u663-53,#u663-54,#u663-67
+{
+	font-size: 16px;
+	text-align: justify;
+	line-height: 19px;
+}
+
+#u663-2,#u663-6,#u663-8,#u663-10,#u663-12,#u663-14,#u663-16,#u663-18,#u663-20,#u663-22,#u663-24,#u663-26,#u663-28,#u663-30,#u663-32,#u663-34,#u663-36,#u663-38,#u663-40,#u663-42,#u663-44,#u663-47,#u663-51,#u663-55,#u663-59,#u663-61,#u663-63,#u663-65
+{
+	font-weight: 400;
+}
+
+#u663-66
+{
+	font-weight: 300;
+}
+
+#u952-13
+{
+	z-index: 81;
+	width: 353px;
+	min-height: 40px;
+	background-color: transparent;
+	color: #CDCDCD;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	margin-left: 310px;
+	margin-top: 62px;
+	position: relative;
+}
+
+#u952-3
+{
+	padding-top: 2px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u952
+{
+	line-height: 17px;
+}
+
+#u952-2,#u952-10
+{
+	font-size: 12px;
+	line-height: 14px;
+}
+
+.html
+{
+	background: #000000 url("../images/9.jpg") repeat center center fixed;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 53px;
+}
+

@@ -1,0 +1,418 @@
+.version.contact /* version checker */
+{
+	color: #000000;
+	background-color: #420D74;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 738px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-bottom: -50px;
+	padding-top: 4px;
+	width: 0.01px;/* should not cover content below */
+}
+
+#pu950-7
+{
+	width: 0.01px;
+	margin-left: 20px;
+}
+
+#u950-7
+{
+	z-index: 33;
+	width: 299px;
+	min-height: 80px;
+	background-color: transparent;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u950-3
+{
+	font-size: 40px;
+	line-height: 48px;
+}
+
+#u950
+{
+	color: #54B11C;
+}
+
+#u950-2
+{
+	color: #FFFFFF;
+}
+
+#u950-5
+{
+	font-size: 10px;
+	line-height: 12px;
+	color: #CDCDCD;
+}
+
+#u1015-4
+{
+	z-index: 53;
+	width: 78px;
+	min-height: 42px;
+	background-color: transparent;
+	color: #CDCDCD;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 591px;
+}
+
+#u1015-4:hover p
+{
+	color: #68DA23;
+	visibility: inherit;
+}
+
+#u1016-4
+{
+	z-index: 57;
+	width: 78px;
+	min-height: 42px;
+	background-color: transparent;
+	color: #CDCDCD;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 669px;
+}
+
+#u1015-4:hover,#u1016-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 42px;
+	width: 78px;
+	margin: 16px -10000px 0px 0px;
+}
+
+#u1017-4
+{
+	z-index: 61;
+	width: 95px;
+	min-height: 42px;
+	background-color: transparent;
+	color: #CDCDCD;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 747px;
+}
+
+#u1017-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 42px;
+	width: 95px;
+	margin: 16px -10000px 0px 0px;
+}
+
+#u1016-4:hover p,#u1017-4:hover p
+{
+	color: #68DA2D;
+	visibility: inherit;
+}
+
+#u1018-4
+{
+	z-index: 65;
+	width: 78px;
+	min-height: 42px;
+	background-color: transparent;
+	color: #CDCDCD;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 842px;
+}
+
+#pu958
+{
+	width: 0.01px;
+	margin-left: 163px;
+	margin-top: 26px;
+}
+
+#u958
+{
+	z-index: 2;
+	width: 200px;
+	min-height: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 186px;
+	left: 697px;
+}
+
+#u749
+{
+	z-index: 3;
+	width: 633px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u767-4
+{
+	z-index: 5;
+	width: 185px;
+	min-height: 21px;
+	background-color: transparent;
+	color: #191919;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 65px;
+	left: 76px;
+}
+
+#u783
+{
+	z-index: 9;
+	width: 27px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 92px;
+	left: 43px;
+}
+
+#u789-4
+{
+	z-index: 11;
+	width: 159px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #191919;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 95px;
+	left: 76px;
+}
+
+#u790
+{
+	z-index: 15;
+	width: 28px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 126px;
+	left: 44px;
+}
+
+#u793-4
+{
+	z-index: 17;
+	width: 159px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #191919;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 128px;
+	left: 76px;
+}
+
+#u823-4
+{
+	z-index: 21;
+	width: 185px;
+	min-height: 21px;
+	background-color: transparent;
+	color: #191919;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 95px;
+	left: 357px;
+}
+
+#u823-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 21px;
+	width: 185px;
+	margin: 95px -10000px 0px 0px;
+}
+
+#u827-4
+{
+	z-index: 25;
+	width: 185px;
+	min-height: 21px;
+	background-color: transparent;
+	color: #191919;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 128px;
+	left: 357px;
+}
+
+#u827-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 21px;
+	width: 185px;
+	margin: 128px -10000px 0px 0px;
+}
+
+#u823-4:hover p,#u827-4:hover p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u829
+{
+	z-index: 29;
+	width: 28px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 90px;
+	left: 323px;
+}
+
+#u832
+{
+	z-index: 31;
+	width: 28px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 123px;
+	left: 323px;
+}
+
+#u1019
+{
+	z-index: 69;
+	width: 39px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 175px;
+	left: 174px;
+}
+
+#u1025-4
+{
+	z-index: 71;
+	width: 191px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #191919;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 175px;
+	left: 221px;
+}
+
+#u954-13
+{
+	z-index: 40;
+	width: 353px;
+	min-height: 40px;
+	background-color: transparent;
+	color: #CDCDCD;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	margin-left: 310px;
+	margin-top: 62px;
+	position: relative;
+}
+
+#u954-3
+{
+	padding-top: 2px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u954
+{
+	line-height: 17px;
+}
+
+#u954-2,#u954-10
+{
+	font-size: 12px;
+	line-height: 14px;
+}
+
+.html
+{
+	background: #000000 url("../images/9.jpg") repeat center center fixed;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 53px;
+}
+
